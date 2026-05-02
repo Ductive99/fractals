@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.out
+*.d
+
+# Project binaries
+fractol
+
+# Editor / OS noise
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Other
+*.subject.pdf
