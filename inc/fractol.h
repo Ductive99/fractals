@@ -6,7 +6,7 @@
 /*   By: esouhail <esouhail@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/01 01:35:08 by esouhail          #+#    #+#             */
-/*   Updated: 2026/05/04 13:05:37 by esouhail         ###   ########.fr       */
+/*   Updated: 2026/05/04 13:31:23 by esouhail         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 # include <stdlib.h>
 # include <unistd.h>
 
-# define WIN_WIDTH 800
+# define WIN_WIDTH 1200
 # define WIN_HEIGHT 800
 # define WIN_TITLE "fractol"
 # define KEY_ESC 65307
